@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Jake and I'm a student developer at Swarthmore College and an AI ethcis research affliated with McGill Universities Responsible Autonomy & Intelligent System Ethics (RAISE) Lab. 
 
-Feel free to click through [my website](jakec007.github.io) for more on me and what I do. 
+Feel free to click through [my website](https://jakec007.github.io/) for more on me and what I do. 
 
 ### A snapshot of Jake (last updated Sept. 4, 2020)
 - I'm current working on wrapping up `3` research papers
