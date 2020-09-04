@@ -9,7 +9,7 @@ Feel free to click through [my website](jakec007.github.io) for more on me and w
   * HCI
   * Tech Ethics & Policy 
   * CS Pedagogy
-- I just joined [Octo ring](https://octo-ring.com/) which seems pretty neat--see the relevant section below
+- I just joined [Octo ring](https://octo-ring.com/) which seems pretty neat--see the widget below
   
 
 <!--
