@@ -1,13 +1,14 @@
 ### Hi there 👋
-My name is Jake and I'm a student developer at Swarthmore College and an AI ethcis researcher affliated with McGill Universities Responsible Autonomy & Intelligent System Ethics (RAISE) Lab. 
+My name is Jake. I'm a student developer at Swarthmore College and an AI ethics researcher affiliated with McGill’s Responsible Autonomy & Intelligent System Ethics (RAISE) Lab. 
 
 Feel free to click through [my website](https://jakec007.github.io/) for more on me and what I do. 
 
 ### A snapshot of Jake (last updated Sept. 4, 2020)
-- I'm current working on wrapping up `3` research papers
-- I'm starting to apply to PhD programs. If you know anyone cool who works in any of the following fields drop me a line. I'm on the lookout for cool people and interesting labs to work with:
+- I'm currently working on wrapping up `3` research papers
+- I'm starting to apply to PhD programs. If you know anyone cool who works in the following fields drop me a line. I'm on the lookout for great people at interesting labs focusing on:
   * HCI
   * Tech Ethics & Policy 
+  * Security
   * CS Pedagogy
 - I just joined [Octo ring](https://octo-ring.com/) which seems pretty neat--see the widget below
   
