@@ -3,14 +3,10 @@ My name is Jake. I'm a student developer at Swarthmore College and an AI ethics 
 
 Feel free to click through [my website](https://jakec007.github.io/) for more on me and what I do. 
 
-### A snapshot of Jake (last updated Sept. 4, 2020)
-- I'm currently working on wrapping up `3` research papers
-- I'm starting to apply to PhD programs. If you know anyone cool who works in the following fields drop me a line. I'm on the lookout for great people at interesting labs focusing on:
-  * HCI
-  * Tech Ethics & Policy 
-  * Security
-  * CS Pedagogy
-- I just joined [Octo ring](https://octo-ring.com/) which seems pretty neat--see the widget below
+### A snapshot of Jake (last updated April 15, 2021)
+- I just accepted an offer of admission from UChicago’s CS PhD program!
+- I'm still working on `1` research paper
+     * It's related to CS pedagogy
   
 
 <!--
