@@ -1,12 +1,11 @@
 ### Hi there 👋
-My name is Jake. I'm a student developer at Swarthmore College and an AI ethics researcher affiliated with McGill’s Responsible Autonomy & Intelligent System Ethics (RAISE) Lab. 
+My name is Jake. I'm a CS PhD student at The University of Chicago working under [Marshini Chetty](https://www.marshini.net/) in the [Amyoli Internet Research Lab](https://airlab.cs.uchicago.edu/). Broadly, I'm interested in HCI, ethics and tech policy. 
 
 Feel free to click through [my website](https://jakec007.github.io/) for more on me and what I do. 
 
-### A snapshot of Jake (last updated April 15, 2021)
-- I just accepted an offer of admission from UChicago’s CS PhD program!
-- I'm still working on `1` research paper
-     * It's related to CS pedagogy
+### A snapshot of Jake (last updated December 17, 2021)
+- I'm working on a research project related to privacy in k-12 education
+     * If you are a school administrator or IT professional and are interested in sitting for a brief, 30 min, interview click [here to learn more](https://www.k12inspector.org/participate).  
   
 
 <!--
