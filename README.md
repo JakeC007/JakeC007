@@ -3,10 +3,9 @@ My name is Jake. I'm a CS PhD student at The University of Chicago working under
 
 Feel free to click through [my website](https://jakec007.github.io/) for more on me and what I do. 
 
-### A snapshot of Jake (last updated Jan 4, 2023)
-- Busy with CHI re-reviews
-- Waiting to hear back on my own CHI submissions 
-- Spinning up a new project!
+### A snapshot of Jake (last updated Feb 1, 2023)
+- My paper Uncovering Privacy and Security Challenges In K-12 Schools was accepted to CHI23! [Here is the DOI which should be live soon-ish!]( https://doi.org/10.1145/3544548.3580777)
+- I'm spinning up a new project!
   
 
 <!--
