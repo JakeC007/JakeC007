@@ -5,7 +5,8 @@ Feel free to click through [my website](https://jakec007.github.io/) for more on
 
 ### A snapshot of Jake (last updated Feb 1, 2023)
 - My paper Uncovering Privacy and Security Challenges In K-12 Schools was accepted to CHI23! [Here is the DOI which should be live soon-ish!]( https://doi.org/10.1145/3544548.3580777)
-     - It was covered on a K12 news site: https://www.k12dive.com/news/ed-tech-uses-extensive-tracking/644977/
+     - The paper was covered on a K12 news site: https://www.k12dive.com/news/ed-tech-uses-extensive-tracking/644977/
+     - The paper received an Honorable Mention at CHI 2023
 - I'm spinning up a new project!
   
 
