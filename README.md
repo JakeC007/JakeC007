@@ -8,7 +8,6 @@ Feel free to click through [my website](https://jakec007.github.io/) for more on
      -  The paper received an *Honorable Mention at CHI 2023*
      - The paper was covered on a K12 news site: https://www.k12dive.com/news/ed-tech-uses-extensive-tracking/644977/
      - The paper was covered on a second K12 news site:  https://www.edsurge.com/news/2023-04-17-student-privacy-is-at-more-risk-than-ever-before-can-k-12-schools-keep-it-safe
-     -
 - I'm spinning up a new project!
   
 
