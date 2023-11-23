@@ -11,6 +11,7 @@ Feel free to click through [my website](https://jakec007.github.io/) for more on
      - The paper was covered on a second K12 news site:  https://www.edsurge.com/news/2023-04-17-student-privacy-is-at-more-risk-than-ever-before-can-k-12-schools-keep-it-safe
      - The paper was mentioned in https://www.the74million.org/article/its-back-to-school-for-cyber-gangs-too/
      - Covered on Fox35: https://www.fox35orlando.com/news/increase-reported-in-hackers-and-scammers-targeting-schools
+     - Covered on the markup: https://themarkup.org/pixel-hunt/2023/11/22/facebook-watches-teens-online-as-they-prep-for-college
 
   
 
