@@ -12,6 +12,7 @@ Feel free to click through [my website](https://jakec007.github.io/) for more on
      - The paper was mentioned in https://www.the74million.org/article/its-back-to-school-for-cyber-gangs-too/
      - Covered on Fox35: https://www.fox35orlando.com/news/increase-reported-in-hackers-and-scammers-targeting-schools
      - Covered on the markup: https://themarkup.org/pixel-hunt/2023/11/22/facebook-watches-teens-online-as-they-prep-for-college
+     - USA Today: https://www.usatoday.com/story/news/education/2023/11/22/facebook-meta-tracking-pixels/71665668007/
 
   
 
