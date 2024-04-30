@@ -3,10 +3,11 @@ My name is Jake. I'm a CS PhD student at The University of Chicago working under
 
 Feel free to click through [my website](https://jakec007.github.io/) for more on me and what I do. 
 
-### A snapshot of Jake (last updated October 31, 2023)
+### A snapshot of Jake (last updated April 30, 2024)
 - I'm off to Chicago Law for AY 23-24
+- I was fortunate enough to have my working paper K12 Data Unions/How Student-Data Trusts Can Help Protect Student Privacy selected for the Privacy Law Scholars Conference 2024!
 - My paper Uncovering Privacy and Security Challenges In K-12 Schools was published in CHI23! (https://dl.acm.org/doi/10.1145/3544548.3580777) 
-     -  The paper received an *Honorable Mention at CHI 2023*
+     - The paper received an *Honorable Mention at CHI 2023*
      - The paper was covered on a K12 news site: https://www.k12dive.com/news/ed-tech-uses-extensive-tracking/644977/
      - The paper was covered on a second K12 news site:  https://www.edsurge.com/news/2023-04-17-student-privacy-is-at-more-risk-than-ever-before-can-k-12-schools-keep-it-safe
      - The paper was mentioned in https://www.the74million.org/article/its-back-to-school-for-cyber-gangs-too/
