@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Jake. I'm a CS PhD student at The University of Chicago working with [Marshini Chetty](https://www.marshini.net/) in the [Amyoli Internet Research Lab](https://airlab.cs.uchicago.edu/). Broadly, I'm interested in HCI, ethics and tech policy. 
+My name is Jake. I'm a CS PhD student at The University of Chicago working with [Marshini Chetty](https://www.marshini.net/) in the [Amyoli Internet Research Lab](https://airlab.cs.uchicago.edu/). Broadly, I'm interested in HCI, privacy, and tech policy. 
 
 Feel free to click through [my website](https://jakec007.github.io/) for more on me and what I do. 
 
