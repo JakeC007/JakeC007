@@ -3,8 +3,8 @@ My name is Jake. I'm a CS PhD student at The University of Chicago with a master
 
 Feel free to click through [my website](https://jakec007.github.io/) for more on me and what I do. 
 
-### A snapshot of Jake (last updated October 17, 2024)
-- I just gave an invited talk at Sony AI's Weekly AI Ethics Journal Club 
+### A snapshot of Jake (last updated February 25, 2024)
+- I gave an invited talk at Sony AI's Weekly AI Ethics Journal Club 
 - I'm working as student researcher at Google with Sunny Consolvo
 - I'm off to Chicago Law for AY 23-24
 - I was fortunate enough to have my working paper K12 Data Unions/How Student-Data Trusts Can Help Protect Student Privacy selected for the Privacy Law Scholars Conference 2024!
