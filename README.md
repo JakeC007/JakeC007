@@ -1,10 +1,11 @@
 ### Hi there 👋
-My name is Jake. I'm a CS PhD student at The University of Chicago working with [Marshini Chetty](https://www.marshini.net/) in the [Amyoli Internet Research Lab](https://airlab.cs.uchicago.edu/). Broadly, I'm interested in HCI, privacy, and tech policy. 
+My name is Jake. I'm a CS PhD student at The University of Chicago with a masters in law working with [Marshini Chetty](https://www.marshini.net/) in the [Amyoli Internet Research Lab](https://airlab.cs.uchicago.edu/). Broadly, I'm interested in HCI, privacy, and tech policy. 
 
 Feel free to click through [my website](https://jakec007.github.io/) for more on me and what I do. 
 
 ### A snapshot of Jake (last updated October 17, 2024)
-- I'm working as student researcher at Google with Sunny Consolvo.
+- I just gave an invited talk at Sony AI's Weekly AI Ethics Journal Club 
+- I'm working as student researcher at Google with Sunny Consolvo
 - I'm off to Chicago Law for AY 23-24
 - I was fortunate enough to have my working paper K12 Data Unions/How Student-Data Trusts Can Help Protect Student Privacy selected for the Privacy Law Scholars Conference 2024!
 - My paper Uncovering Privacy and Security Challenges In K-12 Schools was published in CHI23! (https://dl.acm.org/doi/10.1145/3544548.3580777) 
