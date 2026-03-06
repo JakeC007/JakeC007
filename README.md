@@ -3,12 +3,17 @@ My name is Jake. I'm a CS PhD student at The University of Chicago with a master
 
 Feel free to click through [my website](https://jakec007.github.io/) for more on me and what I do. 
 
-### A snapshot of Jake (last updated February 25, 2024)
+### A snapshot of Jake (last updated March 6, 2026)
+- I have revamped my website -- check it out [here](https://jakec007.github.io/)
+- I was on the organizing team for the 1st annual Tech for Good Conference where I moderated a panel about tech policy in practice with Erie Meyer and Mihir Kshirsagar
+- My paper _"It didn’t feel right but I needed a job so desperately": Understanding People’s Emotions and Help Needs During Scams_ will appeat at CHI '26!
+- My workshop _Developmentally Safe Generative AI Environments for Youth_ was accepted into CHI '26. Sign up here to join! (https://www.youthaisafety.com/)
+- My paper _Automating GKC-CI Privacy Policy Annotations with Large Language Models_ was published at PETS '25 (https://petsymposium.org/popets/2025/popets-2025-0062.php)
 - I gave an invited talk at Sony AI's Weekly AI Ethics Journal Club 
 - I'm working as student researcher at Google with Sunny Consolvo
 - I'm off to Chicago Law for AY 23-24
 - I was fortunate enough to have my working paper K12 Data Unions/How Student-Data Trusts Can Help Protect Student Privacy selected for the Privacy Law Scholars Conference 2024!
-- My paper Uncovering Privacy and Security Challenges In K-12 Schools was published in CHI23! (https://dl.acm.org/doi/10.1145/3544548.3580777) 
+- My paper Uncovering Privacy and Security Challenges In K-12 Schools was published in CHI '26! (https://dl.acm.org/doi/10.1145/3544548.3580777) 
      - The paper received an *Honorable Mention at CHI 2023*
      - The paper was covered on a K12 news site: https://www.k12dive.com/news/ed-tech-uses-extensive-tracking/644977/
      - The paper was covered on a second K12 news site:  https://www.edsurge.com/news/2023-04-17-student-privacy-is-at-more-risk-than-ever-before-can-k-12-schools-keep-it-safe
