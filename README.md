@@ -3,7 +3,9 @@ My name is Jake. I'm a CS PhD student at The University of Chicago with a master
 
 Feel free to click through [my website](https://jakec007.github.io/) for more on me and what I do. 
 
-### A snapshot of Jake (last updated March 6, 2026)
+### A snapshot of Jake (last updated May 14, 2026)
+- I gave a talk for Lectures on Tap on why the internet doesn't feel the same anymore by placing our digital decline in a broader historical and legal context, 
+- My paper *Investigating ChatGPT Usage in High Schools: Student Perspectives on Policy and Practice* was accepted into FAccT '26!
 - I have revamped my website -- check it out [here](https://jakec007.github.io/)
 - I was on the organizing team for the 1st annual Tech for Good Conference where I moderated a panel about tech policy in practice with Erie Meyer and Mihir Kshirsagar
 - My paper _"It didn’t feel right but I needed a job so desperately": Understanding People’s Emotions and Help Needs During Scams_ will appeat at CHI '26!
