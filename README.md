@@ -4,7 +4,7 @@ My name is Jake. I'm a CS PhD student at The University of Chicago with a master
 Feel free to click through [my website](https://jakec007.github.io/) for more on me and what I do. 
 
 ### A snapshot of Jake (last updated May 14, 2026)
-- Chatted with some reporters about the Canvas incident https://shastascout.org/california-colleges-went-big-on-online-learning-tools-then-the-worst-happened/
+- Chatted with some reporters about the Canvas incident https://calmatters.org/economy/technology/2026/05/california-went-big-on-canvas-the-worst-happened/
 - I gave a talk for Lectures on Tap on why the internet doesn't feel the same anymore by placing our digital decline in a broader historical and legal context, 
 - My paper *Investigating ChatGPT Usage in High Schools: Student Perspectives on Policy and Practice* was accepted into FAccT '26!
 - I have revamped my website -- check it out [here](https://jakec007.github.io/)
